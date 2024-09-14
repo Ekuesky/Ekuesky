@@ -1,6 +1,6 @@
 ## Hi there 👋
+![github-header-image(1)](https://github.com/user-attachments/assets/5a0d83f3-ade5-483c-bc41-9b3c47ab006f)
 
-![Header](./github-header-image(1).png)
 <!--
 **Ekuesky/Ekuesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
