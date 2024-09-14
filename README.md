@@ -2,7 +2,7 @@
 ![github-header-image(1)](https://github.com/user-attachments/assets/5a0d83f3-ade5-483c-bc41-9b3c47ab006f)
 ## Ekuesky - Building the Future, One Project at a Time
 
-Welcome to my GitHub profile! I'm Ekuesky, and I'm passionate about using technology to create innovative solutions. I'm currently focused on the following projects:
+Welcome to my GitHub profile! I'm Ekuesky, and I'm passionate about using technology to create innovative solutions.
 
 **My Skills and Interests:**
 
