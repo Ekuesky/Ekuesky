@@ -1,5 +1,6 @@
 ## Hi there 👋
-![github-header-image(1)](https://github.com/user-attachments/assets/5a0d83f3-ade5-483c-bc41-9b3c47ab006f)
+![github-header-image](https://github.com/user-attachments/assets/7368ab3e-c323-4d7a-b126-44d61b1b55b1)
+
 ## Ekuesky - Building the Future, One Project at a Time
 
 Welcome to my GitHub profile! I'm Ekuesky, and I'm passionate about using technology to create innovative solutions.
